@@ -6,7 +6,6 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Full Stack Development
 - 👯 I’m looking to collaborate on GitHub
-- 🤔 I’m looking for help with 
 - 📫 You can reach me on ashwaksyed113@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Why do programmers prefer dark mode? Because light attracts bugs!
